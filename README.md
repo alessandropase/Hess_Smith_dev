@@ -26,3 +26,8 @@ The advisor of the project was Dr. Andrea Rausa, teaching assistent of the Aerod
 
 ## External Resources
 - [XFoil](https://web.mit.edu/drela/Public/web/xfoil/) — Software used for validation.
+
+## Acknowledgment
+This project was developed with Alessandro Pasolini.
+
+  
